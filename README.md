@@ -1,2 +1,2 @@
 # Testing
-https://kampyootar.github.io/Testing/index.html
+https://kampyootar.github.io/Testing
